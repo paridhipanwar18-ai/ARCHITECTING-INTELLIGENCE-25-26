@@ -1,38 +1,37 @@
-| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 |
-|-------|-------|-------|-------|-------|-------|-------|-------|-------|--------|--------|
-| Row 1 |       |       |       |       |       |       |       |       |        |        |
-| Row 2 |       |       |       |       |       |       |       |       |        |        |
-| Row 3 |       |       |       |       |       |       |       |       |        |        |
-| Row 4 |       |       |       |       |       |       |       |       |        |        |
-| Row 5 |       |       |       |       |       |       |       |       |        |        |
-| Row 6 |       |       |       |       |       |       |       |       |        |        |
-| Row 7 |       |       |       |       |       |       |       |       |        |        |
-| Row 8 |       |       |       |       |       |       |       |       |        |        |
-| Row 9 |       |       |       |       |       |       |       |       |        |        |
-| Row 10|       |       |       |       |       |       |       |       |        |        |
-| Row 11|       |       |       |       |       |       |       |       |        |        |
-| Row 12|       |       |       |       |       |       |       |       |        |        |
-| Row 13|       |       |       |       |       |       |       |       |        |        |
-| Row 14|       |       |       |       |       |       |       |       |        |        |
-| Row 15|       |       |       |       |       |       |       |       |        |        |
-| Row 16|       |       |       |       |       |       |       |       |        |        |
-| Row 17|       |       |       |       |       |       |       |       |        |        |
-| Row 18|       |       |       |       |       |       |       |       |        |        |
-| Row 19|       |       |       |       |       |       |       |       |        |        |
-| Row 20|       |       |       |       |       |       |       |       |        |        |
-| Row 21|       |       |       |       |       |       |       |       |        |        |
-| Row 22|       |       |       |       |       |       |       |       |        |        |
-| Row 23|       |       |       |       |       |       |       |       |        |        |
-| Row 24|       |       |       |       |       |       |       |       |        |        |
-| Row 25|       |       |       |       |       |       |       |       |        |        |
-| Row 26|       |       |       |       |       |       |       |       |        |        |
-| Row 27|       |       |       |       |       |       |       |       |        |        |
-| Row 28|       |       |       |       |       |       |       |       |        |        |
-| Row 29|       |       |       |       |       |       |       |       |        |        |
-| Row 30|       |       |       |       |       |       |       |       |        |        |
-| Row 31|       |       |       |       |       |       |       |       |        |        |
-| Row 32|       |       |       |       |       |       |       |       |        |        |
-| Row 33|       |       |       |       |       |       |       |       |        |        |
-| Row 34|       |       |       |       |       |       |       |       |        |        |
-| Row 35|       |       |       |       |       |       |       |       |        |        |
+| Name | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 |
+|------|-------|-------|-------|-------|-------|-------|-------|-------|--------|--------|
+| Rudra Sharma | | | | | | | | | | |
+| Kartikey Singh Tomar | | | | | | | | | | |
+| Venkata Sai Koppala | | | | | | | | | | |
+| Rounak Mandal | | | | | | | | | | |
+| utkarsh singhal | | | | | | | | | | |
+| Jaswanth kumar | | | | | | | | | | |
+| Krisha Gothi | | | | | | | | | | |
+| Anubha Jaiswal | | | | | | | | | | |
+| Harshit Dashore | | | | | | | | | | |
+| Harilish Jayakumar | | | | | | | | | | |
+| Azaad Katiyar | | | | | | | | | | |
+| Ranjan ojha | | | | | | | | | | |
+| K Soni sowbhagya | | | | | | | | | | |
+| AMIT SINGH | | | | | | | | | | |
+| Anuska Keshri | | | | | | | | | | |
+| Akshat Mittal | | | | | | | | | | |
+| Mayank Verma | | | | | | | | | | |
+| Mishka Gupta | | | | | | | | | | |
+| Priyanshu Joshi | | | | | | | | | | |
+| Vishnu Sarathy B | | | | | | | | | | |
+| Paridhi Panwar | | | | | | | | | | |
+| Prabhanshu | | | | | | | | | | |
+| Akshada Bhagwat | | | | | | | | | | |
+| Dhanmathi R S | | | | | | | | | | |
+| Bala Swetha S | | | | | | | | | | |
+| Amay Gavade | | | | | | | | | | |
+| Shambhavi Singh | | | | | | | | | | |
+| Aditi Pal | | | | | | | | | | |
+| Ilika Bera | | | | | | | | | | |
+| Kavya Jain | | | | | | | | | | |
+| Saloni kumari | | | | | | | | | | |
+| Ritvija Katare | | | | | | | | | | |
+|  | | | | | | | | | | |
+
 
