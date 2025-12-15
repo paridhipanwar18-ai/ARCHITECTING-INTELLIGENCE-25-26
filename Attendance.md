@@ -4,11 +4,11 @@
 | Aditi Pal             | 1  | 1  |    |    |    |    |    |    |    |     |
 | Akshada Bhagwat       | 1  | 1  |    |    |    |    |    |    |    |     |
 | Akshat Mittal         |    | 1  |    |    |    |    |    |    |    |     |
-| Amay Gavade           | 1  |    |    |    |    |    |    |    |    |     |
+| Amay Gavade           | 1  | 1  |    |    |    |    |    |    |    |     |
 | Anubha Jaiswal        | 1  | 1  |    |    |    |    |    |    |    |     |
 | Anuska Keshri         | 1  | 1  |    |    |    |    |    |    |    |     |
 | Azaad Katiyar         | 1  | 1  |    |    |    |    |    |    |    |     |
-| Bala Swetha S         | 1  |    |    |    |    |    |    |    |    |     |
+| Bala Swetha S         | 1  | 1  |    |    |    |    |    |    |    |     |
 | Dhanmathi R S         | 1  | 1  |    |    |    |    |    |    |    |     |
 | Divyanshi Shukla      | 1  | 1  |    |    |    |    |    |    |    |     |
 | Harilish Jayakumar    | 1  | 1  |    |    |    |    |    |    |    |     |
